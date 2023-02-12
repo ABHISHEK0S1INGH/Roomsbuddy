@@ -1,6 +1,6 @@
 
 TITLE: 
-Luxe - 100% Fully Responsive Free HTML5 template
+RoomsBuddy - 100% Fully Responsive Free HTML5 template
 
 AUTHOR:
 DESIGNED & DEVELOPED by FREEHTML5.co
